@@ -1,0 +1,9 @@
+D:\Projects\MusicSearchByGenre\src\obj\Debug\netstandard2.0\taglib-sharp.csprojResolveAssemblyReference.cache
+D:\Projects\MusicSearchByGenre\src\obj\Debug\netstandard2.0\taglib-sharp.csproj.CoreCompileInputs.cache
+D:\Projects\MusicSearchByGenre\src\obj\Debug\netstandard2.0\taglib-sharp.AssemblyInfoInputs.cache
+D:\Projects\MusicSearchByGenre\src\obj\Debug\netstandard2.0\taglib-sharp.AssemblyInfo.cs
+D:\Projects\MusicSearchByGenre\src\bin\Debug\netstandard2.0\taglib-sharp.deps.json
+D:\Projects\MusicSearchByGenre\src\bin\Debug\netstandard2.0\taglib-sharp.dll
+D:\Projects\MusicSearchByGenre\src\bin\Debug\netstandard2.0\taglib-sharp.pdb
+D:\Projects\MusicSearchByGenre\src\obj\Debug\netstandard2.0\taglib-sharp.dll
+D:\Projects\MusicSearchByGenre\src\obj\Debug\netstandard2.0\taglib-sharp.pdb

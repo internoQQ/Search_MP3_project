@@ -1,0 +1,14 @@
+D:\Projects\MusicSearchByGenre\MusicSearchByGenre\bin\Debug\MusicSearchByGenre.exe.config
+D:\Projects\MusicSearchByGenre\MusicSearchByGenre\bin\Debug\MusicSearchByGenre.exe
+D:\Projects\MusicSearchByGenre\MusicSearchByGenre\bin\Debug\MusicSearchByGenre.pdb
+D:\Projects\MusicSearchByGenre\MusicSearchByGenre\obj\Debug\MusicSearchByGenre.csprojResolveAssemblyReference.cache
+D:\Projects\MusicSearchByGenre\MusicSearchByGenre\obj\Debug\MusicSearchByGenre.mainForm.resources
+D:\Projects\MusicSearchByGenre\MusicSearchByGenre\obj\Debug\MusicSearchByGenre.Properties.Resources.resources
+D:\Projects\MusicSearchByGenre\MusicSearchByGenre\obj\Debug\MusicSearchByGenre.csproj.GenerateResource.Cache
+D:\Projects\MusicSearchByGenre\MusicSearchByGenre\obj\Debug\MusicSearchByGenre.csproj.CoreCompileInputs.cache
+D:\Projects\MusicSearchByGenre\MusicSearchByGenre\obj\Debug\MusicSearchByGenre.exe
+D:\Projects\MusicSearchByGenre\MusicSearchByGenre\obj\Debug\MusicSearchByGenre.pdb
+D:\Projects\MusicSearchByGenre\MusicSearchByGenre\bin\Debug\taglib-sharp.dll
+D:\Projects\MusicSearchByGenre\MusicSearchByGenre\bin\Debug\taglib-sharp.pdb
+D:\Projects\MusicSearchByGenre\MusicSearchByGenre\bin\Debug\taglib-sharp.xml
+D:\Projects\MusicSearchByGenre\MusicSearchByGenre\obj\Debug\MusicSearchByGenre.csproj.CopyComplete

@@ -1,0 +1,2033 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TagLib.Aac.AudioHeader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="59.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEAAAMAAAAiAAAAAAAAAAMAAQAKAAEAAgAQAAAAAhA=</HashCode>
+      <FileName>TagLib\Aac\AudioHeader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.Aac.BitStream" Collapsed="true">
+    <Position X="64.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAiAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Aac\BitStream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Aac.File" Collapsed="true">
+    <Position X="36.75" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABAAAAAAAAABAAAAAAAAAAAAAAAgAAAEAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Aac\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Aiff.File" Collapsed="true">
+    <Position X="32.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MgIAAKAADBAgAIAAAAQAAAAgAAAAAgAAAAAAAAACAAA=</HashCode>
+      <FileName>TagLib\Aiff\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Ape.File" Collapsed="true">
+    <Position X="43.5" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABAAAACAAAAAAAAAAAAAAAAAAAAgAAAEAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Ape\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Ape.Item" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="63" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgAAAAAAACgAQMAAAEAAAAAAABgAAIARA4EAAAABA=</HashCode>
+      <FileName>TagLib\Ape\Item.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.Ape.Tag" Collapsed="true">
+    <Position X="47.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BARwAgZFBEEwRlBgQQ4QFQAgkBRAJAQGIBQATEFAIgI=</HashCode>
+      <FileName>TagLib\Ape\Tag.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Asf.ContentDescriptionObject" Collapsed="true">
+    <Position X="19.25" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAAAABQAAgAEAAoAAAAIAAAQAAAAEAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Asf\ContentDescriptionObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Asf.ContentDescriptor" Collapsed="true">
+    <Position X="61.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAEAgAAAgAEAAAAAAQAAAAFAgAAIRAEAAAAAAA=</HashCode>
+      <FileName>TagLib\Asf\ContentDescriptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Asf.DescriptionRecord" Collapsed="true">
+    <Position X="66.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAEA4ACAgAEAAAAAAQggAAFAgAAIRAEgAAAAAA=</HashCode>
+      <FileName>TagLib\Asf\DescriptionRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Asf.ExtendedContentDescriptionObject" Collapsed="true">
+    <Position X="1.25" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICBAAAAAACAAAhAAAAIAAAAAAAAAACAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Asf\ExtendedContentDescriptionObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Asf.File" Collapsed="true">
+    <Position X="27.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAYAAIMABCAgAAAAAAQAAAAgIAAAAgAEAAAAAAACAAA=</HashCode>
+      <FileName>TagLib\Asf\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Asf.FilePropertiesObject" Collapsed="true">
+    <Position X="3.5" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAhAAAAAAAAABAAAEBBAAAAAhEAAQBCJAICBoAgBQ=</HashCode>
+      <FileName>TagLib\Asf\FilePropertiesObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Asf.Guid" Collapsed="true">
+    <Position X="68.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAABAAgAAAACAAAAAAgIAgAgAAAAACAAAAIQA=</HashCode>
+      <FileName>TagLib\Asf\Guid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Asf.HeaderExtensionObject" Collapsed="true">
+    <Position X="5.75" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAEAAAABAAAAAAAABAAAACAAAA=</HashCode>
+      <FileName>TagLib\Asf\HeaderExtensionObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Asf.HeaderObject" Collapsed="true">
+    <Position X="8" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAQIAAAEAAAABAAAAQAAAFAAAACCAAA=</HashCode>
+      <FileName>TagLib\Asf\HeaderObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Asf.MetadataLibraryObject" Collapsed="true">
+    <Position X="10.25" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAAIAAAIAAABAAAAAAAAAAAAAAAAAAABgAACAAAAg=</HashCode>
+      <FileName>TagLib\Asf\MetadataLibraryObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Asf.Object" Collapsed="true">
+    <Position X="10.25" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAKAAAAAAAAAAFAAABDAAAAAAAgA=</HashCode>
+      <FileName>TagLib\Asf\Object.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Asf.PaddingObject" Collapsed="true">
+    <Position X="12.5" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Asf\PaddingObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Asf.StreamPropertiesObject" Collapsed="true">
+    <Position X="14.75" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAIAQAAAAAMAgAAAAAAQAAAAAAAgBAAAEAAQhQ=</HashCode>
+      <FileName>TagLib\Asf\StreamPropertiesObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Asf.Tag" Collapsed="true">
+    <Position X="43.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JCVYAiJlBGCwQlBhcQIAEQAAkBAAICQCKIQAbEFAAgg=</HashCode>
+      <FileName>TagLib\Asf\Tag.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Asf.UnknownObject" Collapsed="true">
+    <Position X="17" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAABAQAAAAAAA=</HashCode>
+      <FileName>TagLib\Asf\UnknownObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Audible.File" Collapsed="true">
+    <Position X="52.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAKAABAAgAAAAAAAAAAAAAAAAAAAAAAMAAAACAAA=</HashCode>
+      <FileName>TagLib\Audible\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Audible.Tag" Collapsed="true">
+    <Position X="50" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgACABAAAgAEAAgAAAAAAAgBAAAAACAABADABAAAA=</HashCode>
+      <FileName>TagLib\Audible\Tag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Dsf.File" Collapsed="true">
+    <Position X="54.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAKAADAAgAIAAEAQAAAAgAAAAAAAAAAAAAAADAgA=</HashCode>
+      <FileName>TagLib\Dsf\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Flac.Block" Collapsed="true">
+    <Position X="66.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAEAAAIAAAAAAAAAAABBAAARAQAAAAAAA=</HashCode>
+      <FileName>TagLib\Flac\Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Flac.File" Collapsed="true">
+    <Position X="39" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQRAKAADAAgAAAAAAAAAAAAAAAAAgBAAEAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Flac\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Flac.Metadata" Collapsed="true">
+    <Position X="5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEBAAAAAAAAAAAAAAAQAAAAAAAAAAABABAAAA=</HashCode>
+      <FileName>TagLib\Flac\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Flac.Picture" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="59.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAJABAAgQAQAaAAQAEQgAAABABAAARAAAACAAAA=</HashCode>
+      <FileName>TagLib\Flac\Picture.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.Gif.Codec" Collapsed="true">
+    <Position X="27.25" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Gif\Codec.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Gif.File" Collapsed="true">
+    <Position X="5.25" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kEIAALAABAAEFAQCSAQAAAAgAFEgAEAAAAAgAAFiAQA=</HashCode>
+      <FileName>TagLib\Gif\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Gif.GifCommentTag" Collapsed="true">
+    <Position X="18.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAgBABAAAA=</HashCode>
+      <FileName>TagLib\Gif\GifCommentTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v1.StringHandler" Collapsed="true">
+    <Position X="61.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Id3v1\StringHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v1.Tag" Collapsed="true">
+    <Position X="45.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQkAAIEREAAgEFAAAYAgAACAAAAAAAIABAADABAAIA=</HashCode>
+      <FileName>TagLib\Id3v1\Tag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.AttachedPictureFrame" Collapsed="true">
+    <Position X="15.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAFAAAAoQARELAACAAIAAAABABCAAQAQAAAAARA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\AttachedPictureFrame.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Id3v2.CommentsFrame" Collapsed="true">
+    <Position X="20" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAApAAhEJAAAAAIAAAAAAIAIAAAACAAAABA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\CommentsFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.GeneralEncapsulatedObjectFrame" Collapsed="true">
+    <Position X="24.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAoAARkLAAAAAIAAAAAAIAACAAQAABAABA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\GeneralEncapsulatedObjectFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.MusicCdIdentifierFrame" Collapsed="true">
+    <Position X="29" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABABAAAAAIAgAAAABAAAAAAAAAAABA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\MusicCdIdentifierFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.PlayCountFrame" Collapsed="true">
+    <Position X="31.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAABARAAAAAIAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\PlayCountFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.PopularimeterFrame" Collapsed="true">
+    <Position X="33.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAgAAAAAABARAAAAAIAAQAAAAEAAAAAAAAAARA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\PopularimeterFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.PrivateFrame" Collapsed="true">
+    <Position X="2" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgABABAAAAAIAAAAAAAAAAAAQAAAAAhA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\PrivateFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.RelativeVolumeFrame" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAEABCAAAAABUBEAQAAIAAAEEQAAAAAAQAAAAEBA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\RelativeVolumeFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.SynchronisedLyricsFrame" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAApAAhAJAAAAAIIAAgAAIAIAQAACAAAgBA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\SynchronizedLyricsFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.TermsOfUseFrame" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAJAAhEBAAAAAIAAAAAAIAIAAAACAAAABA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\TermsOfUseFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.TextInformationFrame" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAIIABEBIAAAAIAAAAAAICAABAgCAAAAVA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\TextIdentificationFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.UserTextInformationFrame" Collapsed="true">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAABEAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\TextIdentificationFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.UniqueFileIdentifierFrame" Collapsed="true">
+    <Position X="13.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgABABAAAAAIAAAAAAABAAAAAQAAAABA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\UniqueFileIdentifierFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.UnknownFrame" Collapsed="true">
+    <Position X="17.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEBAAAAAIAgAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\UnknownFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.UnsynchronisedLyricsFrame" Collapsed="true">
+    <Position X="22.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAApAAhEJAAAAAIAAAAAAIAIAAAACAAAABA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\UnsynchronisedLyricsFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.UrlLinkFrame" Collapsed="true">
+    <Position X="26.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAIAABEBAAAAAIAAAAAAICAABAgCAAAARA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\UrlLinkFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.UserUrlLinkFrame" Collapsed="true">
+    <Position X="26.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAABEAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\UrlLinkFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.ExtendedHeader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="71.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAgAAIAIAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>TagLib\Id3v2\ExtendedHeader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.Id3v2.Frame" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAQlAAAAgAAIBAAAAAIAABAAAACEABAAQAEAABA=</HashCode>
+      <FileName>TagLib\Id3v2\Frame.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Id3v2.FrameFactory" Collapsed="true">
+    <Position X="63" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAACAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Id3v2\FrameFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.FrameType" Collapsed="true">
+    <Position X="64.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQCgAECiAIgApCAQAEAAIAAQRiAA0Cf14BAGkKQAA=</HashCode>
+      <FileName>TagLib\Id3v2\FrameTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.SynchData" Collapsed="true">
+    <Position X="70" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAEAAAAAAAAAAAABAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Id3v2\SynchData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Id3v2.Tag" Collapsed="true">
+    <Position X="41" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>rER8Fo5FDGBwRXjoSRIQFRIgkBEAsIQGIBQAzEFQIhA=</HashCode>
+      <FileName>TagLib\Id3v2\Tag.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.IFD.Entries.ByteIFDEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="71.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\ByteIFDEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.IFD.Entries.ByteVectorIFDEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="59.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAABAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\ByteVectorIFDEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.IFD.Entries.LongArrayIFDEntry" Collapsed="true">
+    <Position X="32" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\LongArrayIFDEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.IFD.Entries.LongIFDEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="66.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\LongIFDEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.IFD.Entries.MakernoteIFDEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="68.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAAAAAAgAAAAAAAAAAAEAAAAAgAEABAAABAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\MakernoteIFDEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.IFD.Entries.RationalArrayIFDEntry" Collapsed="true">
+    <Position X="36.5" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\RationalArrayIFDEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.IFD.Entries.RationalIFDEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="63" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\RationalIFDEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.IFD.Entries.SByteIFDEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="64.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\SByteIFDEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.IFD.Entries.ShortArrayIFDEntry" Collapsed="true">
+    <Position X="23" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\ShortArrayIFDEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.IFD.Entries.ShortIFDEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="66.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\ShortIFDEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.IFD.Entries.SLongArrayIFDEntry" Collapsed="true">
+    <Position X="25.25" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\SLongArrayIFDEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.IFD.Entries.SLongIFDEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="68.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\SLongIFDEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.IFD.Entries.SRationalArrayIFDEntry" Collapsed="true">
+    <Position X="27.5" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\SRationalArrayIFDEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.IFD.Entries.SRationalIFDEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="70" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\SRationalIFDEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.IFD.Entries.SShortArrayIFDEntry" Collapsed="true">
+    <Position X="29.75" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\SShortArrayIFDEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.IFD.Entries.SShortIFDEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="71.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\SShortIFDEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.IFD.Entries.StringIFDEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="63" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\StringIFDEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.IFD.Entries.StripOffsetsIFDEntry" Collapsed="true">
+    <Position X="34.25" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAABBAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\StripOffsetsIFDEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.IFD.Entries.SubIFDArrayEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="64.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgACAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\SubIFDArrayEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.IFD.Entries.SubIFDEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="66.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAoAAAAAAAAAAQEAAAAAAAAARAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\SubIFDEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.IFD.Entries.ThumbnailDataIFDEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="61.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAABAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\ThumbnailDataIFDEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.IFD.Entries.UndefinedIFDEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="64.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAABAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\UndefinedIFDEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.IFD.Entries.UserCommentIFDEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="68.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAQAAAAAAQAAAAAAAEAACABAgAABAEAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\UserCommentIFDEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.IFD.Makernotes.Nikon3MakernoteReader" Collapsed="true">
+    <Position X="24.5" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Makernotes\Nikon3MakernoteReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.IFD.IFDDirectory" Collapsed="true">
+    <Position X="70" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\IFDDirectory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.IFD.ArrayIFDEntry&lt;T&gt;" Collapsed="true">
+    <Position X="29.75" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\IFDEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.IFD.IFDReader" Collapsed="true">
+    <Position X="25.75" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAEsAgAFgAICBAgESAZiAAgBMABBCBQTEAAQAAIAIA=</HashCode>
+      <FileName>TagLib\IFD\IFDReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.IFD.IFDRenderer" Collapsed="true">
+    <Position X="71.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAwAAAgAAAAAAACAAAAAAAAABAAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\IFDRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.IFD.IFDStructure" Collapsed="true">
+    <Position X="59.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgjQgAAAFAACAQAABAEAACAAAoAABAAAACAAAAAAEAA=</HashCode>
+      <FileName>TagLib\IFD\IFDStructure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.IFD.IFDTag" Collapsed="true">
+    <Position X="25.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAFCUEAAEAAAAAIhAAEEAEkAAQAEBoABAJAAEA=</HashCode>
+      <FileName>TagLib\IFD\IFDTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.IIM.IIMReader" Collapsed="true">
+    <Position X="61.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAgAAAAAgAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IIM\IIMReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.IIM.IIMTag" Collapsed="true">
+    <Position X="20.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAFAAAAAEAAAAAAAEAAAAAAIAAAEAAABABAgAA=</HashCode>
+      <FileName>TagLib\IIM\IIMTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Image.NoMetadata.File" Collapsed="true">
+    <Position X="9.75" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEACAAA=</HashCode>
+      <FileName>TagLib\Image\NoMetadata\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Image.Codec" Collapsed="true">
+    <Position X="26" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAiAAAAAAAAAAEAAAAAAAAAAAAAAgAAAQA=</HashCode>
+      <FileName>TagLib\Image\Codec.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Image.CombinedImageTag" Collapsed="true">
+    <Position X="27.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBACAAFCUEAAEEAAAAIgAAAAEAAAIUAEAoABAZIgAA=</HashCode>
+      <FileName>TagLib\Image\CombinedImageTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Image.File" Collapsed="true">
+    <Position X="13.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAABAAgACAIEAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Image\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Image.ImageBlockFile" Collapsed="true">
+    <Position X="5.25" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>TagLib\Image\ImageBlockFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Image.ImageTag" Collapsed="true">
+    <Position X="22" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAACUEAAAAAAAAIgAAAAAAAAAUAEAoAAAJAgAA=</HashCode>
+      <FileName>TagLib\Image\ImageTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Jpeg.Codec" Collapsed="true">
+    <Position X="25" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Jpeg\Codec.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Jpeg.File" Collapsed="true">
+    <Position X="3" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAKQAIAIAEAEAAQAQAAQABAgMAIgAIEgAAAAAAECUDA=</HashCode>
+      <FileName>TagLib\Jpeg\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Jpeg.JpegCommentTag" Collapsed="true">
+    <Position X="16.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAgBABAAAA=</HashCode>
+      <FileName>TagLib\Jpeg\JpegCommentTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Jpeg.Table" Collapsed="true">
+    <Position X="71.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Jpeg\Table.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Matroska.Attachment" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACBAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAEIA=</HashCode>
+      <FileName>TagLib\Matroska\Attachment.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Matroska.AudioTrack" Collapsed="true">
+    <Position X="21.25" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAEAAAAAAIAAAAAAAAAMAAAAAAAEAAAAQICAAAAA=</HashCode>
+      <FileName>TagLib\Matroska\AudioTrack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Matroska.EBMLelement" Collapsed="true">
+    <Position X="68.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACIAAAhAAAAkAAAAAAUFCAAAQAAABAEAAAAAAEAAAA=</HashCode>
+      <FileName>TagLib\Matroska\EBMLElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Matroska.EBMLreader" Collapsed="true">
+    <Position X="70" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAQFAAAAkABACAACxACgAAAAAUAABAAAABEAgAA=</HashCode>
+      <FileName>TagLib\Matroska\EBMLreader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Matroska.File" Collapsed="true">
+    <Position X="57" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIJAAJYgBAAiEBhAAAEBAAAARQEAAhAIAAJQBwAKAKA=</HashCode>
+      <FileName>TagLib\Matroska\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Matroska.UIDElement" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="63" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAABAABAAAAAAAAAAAAQAAAAAFAA=</HashCode>
+      <FileName>TagLib\Matroska\IUIDElement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.Matroska.SimpleTag" Collapsed="true">
+    <Position X="20.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMAAgCAAAAAAAAAAAAAAAAAAAAAAAQAAgAAAAAAQ=</HashCode>
+      <FileName>TagLib\Matroska\SimpleTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Matroska.SubtitleTrack" Collapsed="true">
+    <Position X="16.75" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAEAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>TagLib\Matroska\SubtitleTrack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Matroska.Tag" Collapsed="true">
+    <Position X="29.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARQAgJFBUIwxEBgQQIQVQAAkBAAIEQCIAQAzEFAAgw=</HashCode>
+      <FileName>TagLib\Matroska\Tag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Matroska.Tags" Collapsed="true">
+    <Position X="59.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAUAQBEFAAAAAAAAAQAAAAAAEBAAACAAEAAA=</HashCode>
+      <FileName>TagLib\Matroska\Tags.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Matroska.Track" Collapsed="true">
+    <Position X="19" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAABAAAAiIAAAAARAAAEAAAAAAAAEghAAgCAAEAA=</HashCode>
+      <FileName>TagLib\Matroska\Track.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Matroska.VideoTrack" Collapsed="true">
+    <Position X="19" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAoAQAQAAEAAEAAEAAIABAAAIAACAAAAA=</HashCode>
+      <FileName>TagLib\Matroska\VideoTrack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.MusePack.File" Collapsed="true">
+    <Position X="45.75" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Mpc\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg.AudioFile" Collapsed="true">
+    <Position X="48" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABAAAAAAAAABAAAAAAAAAAAAAAAgAAAEAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg\AudioFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg.File" Collapsed="true">
+    <Position X="34.5" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABACAAAABAAEAAkAACAgEAEAEAAoACAEIAgQAAIAA=</HashCode>
+      <FileName>TagLib\Mpeg\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.AppleAdditionalInfoBox" Collapsed="true">
+    <Position X="11.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQCAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\AppleAdditionalInfoBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.AppleAnnotationBox" Collapsed="true">
+    <Position X="13.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\AppleAnnotationBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.AppleDataBox" Collapsed="true">
+    <Position X="22.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAABAAABAQCAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\AppleDataBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.AppleElementaryStreamDescriptor" Collapsed="true">
+    <Position X="25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAwAAAgAABAAQiECCAAEAAAAEABABAAAABAAAgA=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\AppleElementaryStreamDescriptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.AppleItemListBox" Collapsed="true">
+    <Position X="18.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\AppleItemListBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.FullBox" Collapsed="true">
+    <Position X="28.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAABCAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAQ=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\FullBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.IsoAudioSampleEntry" Collapsed="true">
+    <Position X="4.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AREAAAAAAAAiAEQAABAEAAMAAAAAAAEAAAAAAAAAAAI=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\IsoAudioSampleEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Mpeg4.IsoChunkLargeOffsetBox" Collapsed="true">
+    <Position X="27.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAABAAAAARAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\IsoChunkLargeOffsetBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.IsoChunkOffsetBox" Collapsed="true">
+    <Position X="29.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAABAAAAARAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\IsoChunkOffsetBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.IsoFreeSpaceBox" Collapsed="true">
+    <Position X="38.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAABAAAAAAAAACAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\IsoFreeSpaceBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.IsoHandlerBox" Collapsed="true">
+    <Position X="31.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAQAAAAEABAAAAAAAAAAAAE=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\IsoHandlerBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.IsoMetaBox" Collapsed="true">
+    <Position X="34" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\IsoMetaBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.IsoMovieHeaderBox" Collapsed="true">
+    <Position X="36.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEIQAAACIAAAAAQAAAAAAAEAAAAAAAICgAACAAI=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\IsoMovieHeaderBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.IsoSampleDescriptionBox" Collapsed="true">
+    <Position X="20.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAQAABAEAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\IsoSampleDescriptionBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.IsoSampleEntry" Collapsed="true">
+    <Position X="3.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAIAAAAAAAACAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\IsoSampleEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.IsoSampleTableBox" Collapsed="true">
+    <Position X="7" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\IsoSampleTableBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.IsoUserDataBox" Collapsed="true">
+    <Position X="9.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAQAAAAEAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\IsoUserDataBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.IsoVisualSampleEntry" Collapsed="true">
+    <Position X="2.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQigAQAQBAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\IsoVisualSampleEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Mpeg4.UnknownBox" Collapsed="true">
+    <Position X="16" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\UnknownBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.AppleTag" Collapsed="true">
+    <Position X="36.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BARQAgpFBEBwQFBowYIQFQAAkBAAIAQGIIQETEVAAoE=</HashCode>
+      <FileName>TagLib\Mpeg4\AppleTag.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Mpeg4.Box" Collapsed="true">
+    <Position X="22.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgAAAwAAAgYkAAAABIEAAAAAAoABBQEABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\Box.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.BoxFactory" Collapsed="true">
+    <Position X="68.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\BoxFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.BoxType" Collapsed="true">
+    <Position X="70" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAADBAJIAQKAVQEABQAEQ+ABwEQPYGKoAISEAAEII=</HashCode>
+      <FileName>TagLib\Mpeg4\BoxTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.File" Collapsed="true">
+    <Position X="50.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIIAAKAABAAgAAAAAAgAAAAoAAAAAAAABAAAAAACAAI=</HashCode>
+      <FileName>TagLib\Mpeg4\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Mpeg4.FileParser" Collapsed="true">
+    <Position X="59.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAJAAAhASIBiACAAAkQCEIEAAJAAAEAQACAA=</HashCode>
+      <FileName>TagLib\Mpeg4\FileParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.TextBox" Collapsed="true">
+    <Position X="40.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\TextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.UrlBox" Collapsed="true">
+    <Position X="43" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\Boxes\UrlBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.ByteVector" Collapsed="true">
+    <Position X="21.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AELAEEEAAQSAgBRU+ECANgQgDAAoAJBE6BhSAMFYZyQ=</HashCode>
+      <FileName>TagLib\ByteVector.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.ByteVectorCollection" Collapsed="true">
+    <Position X="0.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAEAAAAAAA=</HashCode>
+      <FileName>TagLib\ByteVectorList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.CombinedTag" Collapsed="true">
+    <Position X="8.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgxQAgJFBEAwQEVgQQIQFQAAkBAAIEQCIARATEFAAgA=</HashCode>
+      <FileName>TagLib\CombinedTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.CorruptFileException" Collapsed="true">
+    <Position X="63" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\CorruptFileException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Debugger" Collapsed="true">
+    <Position X="64.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAgAKAAAAAAAAAAAAAAAABIAAQAAAIAAAA=</HashCode>
+      <FileName>TagLib\Debugger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.File" Collapsed="true">
+    <Position X="30" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAUMAAhqAkIQQACBAAAAdAEAmISEAgCAAABEBDIIA=</HashCode>
+      <FileName>TagLib\File.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.FileTypes" Collapsed="true">
+    <Position X="61.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAABAAAAAAACAAAAIAg=</HashCode>
+      <FileName>TagLib\FileTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Genres" Collapsed="true">
+    <Position X="66.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAgAEAAEAAAABAAAAAQAABAAACAAAAAg=</HashCode>
+      <FileName>TagLib\Genres.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.ListBase&lt;T&gt;" Collapsed="true">
+    <Position X="1.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEJIAEAAAACAABAUCAAAFAQgAAAAAAAECAAQAABQIAA=</HashCode>
+      <FileName>TagLib\ListBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Picture" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAgQAQAKAAAAEAAAAABABAAIQASAQAAAAA=</HashCode>
+      <FileName>TagLib\Picture.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Properties" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="61.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQAAAAIAAQQigAEAAAAAAAMAAAAAAgEAAAAAAgAAAQA=</HashCode>
+      <FileName>TagLib\Properties.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.ReadOnlyByteVector" Collapsed="true">
+    <Position X="22.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>TagLib\ReadOnlyByteVector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.StringCollection" Collapsed="true">
+    <Position X="2.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\StringList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.SupportedMimeType" Collapsed="true">
+    <Position X="68.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAABAAgAAAAQAAAAAAAAAAAAAAQAAAAEAAAAAAAA=</HashCode>
+      <FileName>TagLib\SupportedMimeType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Tag" Collapsed="true">
+    <Position X="26.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQRQhgNHJECwQEDkQQIwVQACkBAAIAQDIMQATEFAIiA=</HashCode>
+      <FileName>TagLib\Tag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.UnsupportedFormatException" Collapsed="true">
+    <Position X="66.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\UnsupportedFormatException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.NonContainer.EndTag" Collapsed="true">
+    <Position X="7.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAkAIAAAAAAgAAAAAAAABBAQAQEAAAA=</HashCode>
+      <FileName>TagLib\NonContainer\EndTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.NonContainer.File" Collapsed="true">
+    <Position X="41.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBBKCABAAgAAAAAAAAAAAgAAAAAgAAAEAAAAACAAA=</HashCode>
+      <FileName>TagLib\NonContainer\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.NonContainer.StartTag" Collapsed="true">
+    <Position X="9.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAkAIAAAAAAgAAAAAAAABBAQAQEAAAA=</HashCode>
+      <FileName>TagLib\NonContainer\StartTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.NonContainer.Tag" Collapsed="true">
+    <Position X="11.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABFACABAAAAAAAACAAAAAgAAAAAkAAAAAABAEAAAA=</HashCode>
+      <FileName>TagLib\NonContainer\Tag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Ogg.Codecs.Opus" Collapsed="true">
+    <Position X="0.75" Y="25.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAQgAAAgAAEAAAAAAAMAAAQAAQEACAgBAgAAJEA=</HashCode>
+      <FileName>TagLib\Ogg\Codecs\Opus.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Ogg.Codecs.Theora" Collapsed="true">
+    <Position X="3" Y="25.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQgAAQggAEAgAAAAAEAAAAAAAAACAgAAAAAJgA=</HashCode>
+      <FileName>TagLib\Ogg\Codecs\Theora.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Ogg.Codecs.Vorbis" Collapsed="true">
+    <Position X="5.25" Y="25.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAQgAAAgAAEAgAAAAAMAAAAAAAEACAgAAAAAJgA=</HashCode>
+      <FileName>TagLib\Ogg\Codecs\Vorbis.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Ogg.Bitstream" Collapsed="true">
+    <Position X="63" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAgAQAAAAEAQAAAAAAAAAAAAAAAAAAABAgAIAA=</HashCode>
+      <FileName>TagLib\Ogg\Bitstream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Ogg.Codec" Collapsed="true">
+    <Position X="3" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAQgAAAiAAEAAAAAAAECAAAAAAAACAAAAAAAIAA=</HashCode>
+      <FileName>TagLib\Ogg\Codec.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Ogg.File" Collapsed="true">
+    <Position X="25.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAKAABAAgAAAAAAAAACAgAAAQAAAAAAAAAAACAAA=</HashCode>
+      <FileName>TagLib\Ogg\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Ogg.GroupedComment" Collapsed="true">
+    <Position X="14" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BARQAgJNBEAwQEBgQQIYFQAA0BAAIAQCIARATEFAIgA=</HashCode>
+      <FileName>TagLib\Ogg\GroupedComment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Ogg.Page" Collapsed="true">
+    <Position X="70" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAARAAAAAxAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Ogg\Page.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Ogg.Paginator" Collapsed="true">
+    <Position X="71.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAAAAAQAEAAAAAAAAAAAAAgAAAAQAEAAAACAA=</HashCode>
+      <FileName>TagLib\Ogg\Paginator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Ogg.XiphComment" Collapsed="true">
+    <Position X="38.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAVwAgpFhEDwQFBgUQIQFWAAsBAAIAQGIBQQTEFIAgA=</HashCode>
+      <FileName>TagLib\Ogg\XiphComment.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Png.Codec" Collapsed="true">
+    <Position X="29.5" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Png\Codec.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Png.File" Collapsed="true">
+    <Position X="7.5" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IkIBUIAAAgBEACUAQQKCBYAgAAQgAxCAQAABIAAKADA=</HashCode>
+      <FileName>TagLib\Png\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Png.PngTag" Collapsed="true">
+    <Position X="23" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAACAFAAGAAFgAABAAFwAEAAAAgAQAEAAABAFAAAA=</HashCode>
+      <FileName>TagLib\Png\PngTag.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TagLib.Riff.AviHeaderList" Collapsed="true">
+    <Position X="61.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAQAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Riff\AviHeaderList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Riff.AviStream" Collapsed="true">
+    <Position X="8.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAAAAQAAQAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Riff\AviStream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Riff.AviAudioStream" Collapsed="true">
+    <Position X="7.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Riff\AviStream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Riff.AviVideoStream" Collapsed="true">
+    <Position X="9.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Riff\AviStream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Riff.DivXTag" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQkAAIERAAAgEAAAAYAgAACAAAAAAAAABAABABAAAE=</HashCode>
+      <FileName>TagLib\Riff\DivXTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Riff.File" Collapsed="true">
+    <Position X="30" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAgKABBAAgAAAAAAQAAAAgAAAAAAAQEAAAAAACAAA=</HashCode>
+      <FileName>TagLib\Riff\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Riff.InfoTag" Collapsed="true">
+    <Position X="32" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIFBEAgAEAAQAIAAAAAABAAAAAAAAQADEAAAAA=</HashCode>
+      <FileName>TagLib\Riff\InfoTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Riff.List" Collapsed="true">
+    <Position X="64.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAIAIBAAAgAAAAAgAAAAAAAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>TagLib\Riff\List.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Riff.ListTag" Collapsed="true">
+    <Position X="33.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CADAAAIAIBAAAgAAAAAgAAAAAAAAAAAAABAgAABAAAA=</HashCode>
+      <FileName>TagLib\Riff\ListTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Riff.MovieIdTag" Collapsed="true">
+    <Position X="34.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAEAAAEAAAAIAAAAAAAAAAAAAAAQABAAAAAA=</HashCode>
+      <FileName>TagLib\Riff\MovieIdTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Tiff.Arw.File" Collapsed="true">
+    <Position X="12" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>TagLib\Tiff\Arw\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Tiff.Cr2.File" Collapsed="true">
+    <Position X="21" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIAAAAAAQAAAAAAAAAAgAAAgAAAAAgAAAEACAAA=</HashCode>
+      <FileName>TagLib\Tiff\Cr2\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Tiff.Dng.File" Collapsed="true">
+    <Position X="14.25" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAIAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>TagLib\Tiff\Dng\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Tiff.Nef.File" Collapsed="true">
+    <Position X="16.5" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>TagLib\Tiff\Nef\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Tiff.Pef.File" Collapsed="true">
+    <Position X="18.75" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>TagLib\Tiff\Pef\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Tiff.Rw2.File" Collapsed="true">
+    <Position X="23.25" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAICAIAAAAAAQAAAAAAAAAAgABAgAAAAAAAAAEACAAA=</HashCode>
+      <FileName>TagLib\Tiff\Rw2\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Tiff.Rw2.IFDReader" Collapsed="true">
+    <Position X="26.75" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Tiff\Rw2\IFDReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Tiff.Rw2.StreamJPGAbstraction" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="59.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAAAAAAAAAAAAAAAAAAAAQAAAAAAAAACAAAAEAAAAA=</HashCode>
+      <FileName>TagLib\Tiff\Rw2\IFDReader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TagLib.Tiff.Rw2.IFDTag" Collapsed="true">
+    <Position X="25.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAIAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Tiff\Rw2\IFDTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Tiff.BaseTiffFile" Collapsed="true">
+    <Position X="17.75" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACERCAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Tiff\BaseTiffFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Tiff.Codec" Collapsed="true">
+    <Position X="22.75" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Tiff\Codec.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Tiff.File" Collapsed="true">
+    <Position X="15.5" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIAAIAAQAAAAAAAAAAAAAAgAAAgAAAAAAAACAACAAA=</HashCode>
+      <FileName>TagLib\Tiff\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.WavPack.File" Collapsed="true">
+    <Position X="41.25" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABAAAACAAAAAAAAAAAAAAAAAAAAgAAAEAAAAAAAAA=</HashCode>
+      <FileName>TagLib\WavPack\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Xmp.XmlNodeExtensions" Collapsed="true">
+    <Position X="70" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAAAAAAAAAAAABAAAAABAAAAAEAAAAAAABCA=</HashCode>
+      <FileName>TagLib\Xmp\XmlNodeExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Xmp.XmpNode" Collapsed="true">
+    <Position X="71.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoEQAABAQAAAEAQAACIEgAQAAAIEIAAAAQAgAIAAAAA=</HashCode>
+      <FileName>TagLib\Xmp\XmpNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TagLib.Xmp.XmpTag" Collapsed="true">
+    <Position X="20.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIBECQLNaVELIdFICBEIoJADAyAwCAU4UB5SLG9AqBE=</HashCode>
+      <FileName>TagLib\Xmp\XmpTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="TagLib.Aiff.StreamHeader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="68.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEAAAAAAAAigAEAAAQAAAMABAAAAgEAAAAQAAAAAgA=</HashCode>
+      <FileName>TagLib\Aiff\StreamHeader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="TagLib.Ape.Footer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="70" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAABSEAAAACgAABgAQAAAAAEAAAAIAAARAAAAAABiQ=</HashCode>
+      <FileName>TagLib\Ape\Footer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="TagLib.Ape.StreamHeader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="59.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQEAICAAAAQigAGAAAQAAAMABAAAAgEAAAAQAAAAAgA=</HashCode>
+      <FileName>TagLib\Ape\StreamHeader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="TagLib.Dsf.StreamHeader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="71.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQEAACAAAAAigAAAAAQAAAMABAAAAgEAIAAQCAQAAgA=</HashCode>
+      <FileName>TagLib\Dsf\StreamHeader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="TagLib.Flac.BlockHeader" Collapsed="true">
+    <Position X="66.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAgAAABAAAABAAADACQAA=</HashCode>
+      <FileName>TagLib\Flac\BlockHeader.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TagLib.Flac.StreamHeader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="70" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAjAAAAAAAAAAMAAAAAAgEAQAAAAAAIAgQ=</HashCode>
+      <FileName>TagLib\Flac\StreamHeader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="TagLib.Id3v2.SynchedText" Collapsed="true">
+    <Position X="64.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAAAQA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\SynchronizedLyricsFrame.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TagLib.Id3v2.Footer" Collapsed="true">
+    <Position X="71.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAgAABAAwEAAAAAEAEAAAAARAAAAAABAQ=</HashCode>
+      <FileName>TagLib\Id3v2\Footer.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TagLib.Id3v2.FrameHeader" Collapsed="true">
+    <Position X="59.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgABAAAAAAAgAAAAAACAAAAABBAAACAABAAAAAAAIQ=</HashCode>
+      <FileName>TagLib\Id3v2\FrameHeader.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TagLib.Id3v2.Header" Collapsed="true">
+    <Position X="61.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAgAABAAwEAAAAAEAEAAAAARAAAAAABAQ=</HashCode>
+      <FileName>TagLib\Id3v2\Header.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TagLib.IFD.Entries.Rational" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="64.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAACAAAAAgAAAAEAAAABAAAAAAAAAAAIAAAACAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\Rational.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="TagLib.IFD.Entries.SRational" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="66.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAACAAAAAgAAAAEAAAABAAAAAAAAAAAIAAAACAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Entries\SRational.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="TagLib.MusePack.StreamHeader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="61.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MQMAQCAAAIAiAIAAggEAAAMAgAABAIEAAAAQAQAAAiA=</HashCode>
+      <FileName>TagLib\Mpc\StreamHeader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="TagLib.Mpeg.AudioHeader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="59.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cQEQBAKCAQAjBAAAAAAAABMAAAAYAAEAAgAACAACAhQ=</HashCode>
+      <FileName>TagLib\Mpeg\AudioHeader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="TagLib.Mpeg.VBRIHeader" Collapsed="true">
+    <Position X="66.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAACBAAIIQQAAAAAAAAAAAAAAAAAQAAABA=</HashCode>
+      <FileName>TagLib\Mpeg\VBRIHeader.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TagLib.Mpeg.VideoHeader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="68.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQigAQAQCAAAAEAAAAAAAACBACCAAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg\VideoHeader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="TagLib.Mpeg.XingHeader" Collapsed="true">
+    <Position X="71.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACBAAIIQQAIAAAAAAAAAAAAAAAQAAABA=</HashCode>
+      <FileName>TagLib\Mpeg\XingHeader.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TagLib.Mpeg4.BoxHeader" Collapsed="true">
+    <Position X="68.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAEAAAAGACoAAIAMgBAAgIAAIAAABAAAABAAAA=</HashCode>
+      <FileName>TagLib\Mpeg4\BoxHeader.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TagLib.Ogg.PageHeader" Collapsed="true">
+    <Position X="63" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIEBCAQAACA0AAAgIAAAAAAAAAAAYAAAJAAAAAAAiY=</HashCode>
+      <FileName>TagLib\Ogg\PageHeader.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TagLib.Riff.AviHeader" Collapsed="true">
+    <Position X="61.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABBBABBAASSAUAQAAAAEAgAAAAAAARAAAAIAAAAQQ=</HashCode>
+      <FileName>TagLib\Riff\AviHeaderList.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TagLib.Riff.AviStreamHeader" Collapsed="true">
+    <Position X="63" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAABFgAAGQISBBkAEIQAAhiAAAJAAAQCQCAAAAAgAY=</HashCode>
+      <FileName>TagLib\Riff\AviStream.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TagLib.Riff.BitmapInfoHeader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="64.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAhAAASigQYIwIAAAAGAAAAAAqBDAQIAAABAAqg=</HashCode>
+      <FileName>TagLib\Riff\BitmapInfoHeader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="TagLib.Riff.WaveFormatEx" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="70" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAAAAAAEAAiAAAAiAAEAAOABAgAAoEAAAAQAAAAAiA=</HashCode>
+      <FileName>TagLib\Riff\WaveFormatEx.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="TagLib.WavPack.StreamHeader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="63" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQECAiAAAAAigAQAgAQAAAMAACAAIoEAAEAAAAAAAiQ=</HashCode>
+      <FileName>TagLib\WavPack\StreamHeader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Interface Name="TagLib.IFD.IFDEntry" Collapsed="true">
+    <Position X="59.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\IFDEntry.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TagLib.Matroska.IUIDElement" Collapsed="true">
+    <Position X="64.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>TagLib\Matroska\IUIDElement.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TagLib.ICodec" Collapsed="true">
+    <Position X="11" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAiAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\ICodec.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TagLib.IAudioCodec" Collapsed="true">
+    <Position X="8.75" Y="25.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAIAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\ICodec.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TagLib.ILosslessAudioCodec" Collapsed="true">
+    <Position X="61.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\ICodec.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TagLib.IVideoCodec" Collapsed="true">
+    <Position X="11" Y="25.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\ICodec.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TagLib.IPhotoCodec" Collapsed="true">
+    <Position X="13.25" Y="25.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAQA=</HashCode>
+      <FileName>TagLib\ICodec.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TagLib.IPicture" Collapsed="true">
+    <Position X="63" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgQAQAAAAAAAAAAAAAABAAAQAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Picture.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TagLib.Xmp.XmpNodeVisitor" Collapsed="true">
+    <Position X="66.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Xmp\XmpNodeVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="TagLib.Ape.FooterFlags" Collapsed="true">
+    <Position X="63" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAgAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Ape\Footer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Ape.ItemType" Collapsed="true">
+    <Position X="63" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>TagLib\Ape\Item.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Ape.CompressionLevel" Collapsed="true">
+    <Position X="70" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEBAAAAAAgAAAAAIAAAIAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>TagLib\Ape\StreamHeader.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Asf.DataType" Collapsed="true">
+    <Position X="71.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEAAAAAAAAAAAAgAAAAAAAAQIAABAAAAAAIAAAAAAA=</HashCode>
+      <FileName>TagLib\Asf\ContentDescriptor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Flac.BlockType" Collapsed="true">
+    <Position X="59.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAABAAAAAAAAAAAAACEBAAAAAAAAIAAAAAIAA=</HashCode>
+      <FileName>TagLib\Flac\BlockHeader.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Id3v2.ChannelType" Collapsed="true">
+    <Position X="68.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAABAAAQAAAAAQAAAAAQAAAAAAAAACAAACAEAIAAAA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\RelativeVolumeFrame.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Id3v2.TimestampFormat" Collapsed="true">
+    <Position X="64.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAECAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\SynchronizedLyricsFrame.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Id3v2.SynchedTextType" Collapsed="true">
+    <Position X="59.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAQAAAAAAAQAAABgAAAAAAAgAAAAAAIAAAAAAABCA=</HashCode>
+      <FileName>TagLib\Id3v2\Frames\SynchronizedLyricsFrame.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Id3v2.FrameFlags" Collapsed="true">
+    <Position X="64.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAACAACAAAAAAAAAIAAAAAAAAAAAAIAAEQAgA=</HashCode>
+      <FileName>TagLib\Id3v2\FrameHeader.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Id3v2.HeaderFlags" Collapsed="true">
+    <Position X="68.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAEACAAAAAAAAAAAAAAAAAAAAAAgAAEAAAA=</HashCode>
+      <FileName>TagLib\Id3v2\Header.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Entries.MakernoteType" Collapsed="true">
+    <Position X="64.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAIAAAAAAAAAAAAAAJAAAQgAAAAAAABAAAAABA=</HashCode>
+      <FileName>TagLib\IFD\Entries\MakernoteIFDEntry.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.CanonFileInfoEntryTag" Collapsed="true">
+    <Position X="61.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAAAAAAAACIAAAgBAiAAABAAAAACAQAAAAAAAAACAAA=</HashCode>
+      <FileName>TagLib\IFD\Tags\CanonFileInfoEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.CanonMakerNoteEntryTag" Collapsed="true">
+    <Position X="63" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCEAAAGACAIAAAAAAAACARAyGIACCEAEAAIwEIAAA=</HashCode>
+      <FileName>TagLib\IFD\Tags\CanonMakerNoteEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.CanonPictureInfoEntryTag" Collapsed="true">
+    <Position X="64.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAABAAAABAAEAAAAAAAACAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Tags\CanonPictureInfoEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.ExifEntryTag" Collapsed="true">
+    <Position X="61.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAZcAgBQiACAAEARgBAoKgA8ECEEAAgFgxMCABlMAAA=</HashCode>
+      <FileName>TagLib\IFD\Tags\ExifEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.GPSEntryTag" Collapsed="true">
+    <Position X="66.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAECEAAAAkCgoIAAQBUQABAAAAABBRBCDAKgCAAAIAA=</HashCode>
+      <FileName>TagLib\IFD\Tags\GPSEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.IFDEntryTag" Collapsed="true">
+    <Position X="70" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>olDaoOGBM+d0f2Ghi9QJDumoBaqDh6X+PdvgWROgBrQ=</HashCode>
+      <FileName>TagLib\IFD\Tags\IFDEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.IOPEntryTag" Collapsed="true">
+    <Position X="61.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAEAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAEAACAAAA=</HashCode>
+      <FileName>TagLib\IFD\Tags\IOPEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.Nikon3MakerNoteEntryTag" Collapsed="true">
+    <Position X="59.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YCM2hSAAEWSK0JbCBEzBQCKYETuYZsAG7ERgBkSAyAA=</HashCode>
+      <FileName>TagLib\IFD\Tags\Nikon3MakerNoteEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.NikonIsoInfoEntryTag" Collapsed="true">
+    <Position X="61.25" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAABAAAAAAAAAAEAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>TagLib\IFD\Tags\NikonIsoInfoEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.NikonLensData3EntryTag" Collapsed="true">
+    <Position X="63" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAgAAAAACAAAAAAAAAgAEADACAAAAAIgAEBAAAAAAAg=</HashCode>
+      <FileName>TagLib\IFD\Tags\NikonLensData3EntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.NikonPictureControlEntryTag" Collapsed="true">
+    <Position X="64.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAQAAAAACAAAAAAgCAABAQAAAAACAAAAAQAAggAQIA=</HashCode>
+      <FileName>TagLib\IFD\Tags\NikonPictureControlEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.NikonPreviewMakerNoteEntryTag" Collapsed="true">
+    <Position X="66.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAoBAAAAAAAAEAAAAAAAAAAAACAABgAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Tags\NikonPreviewMakerNoteEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.NikonShotInfoEntryTag" Collapsed="true">
+    <Position X="68.25" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAkAAIIAAAAAIAAAJAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>TagLib\IFD\Tags\NikonShotInfoEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.NikonVibrationReductionEntryTag" Collapsed="true">
+    <Position X="70" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\IFD\Tags\NikonVibrationReductionEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.NikonWorldTimeEntryTag" Collapsed="true">
+    <Position X="71.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAiAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>TagLib\IFD\Tags\NikonWorldTimeEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.OlympusMakerNoteEntryTag" Collapsed="true">
+    <Position X="59.5" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>aAhCmwABCSAwJARQEAQBCISI0ykZAwCAi4NQCAgAAIA=</HashCode>
+      <FileName>TagLib\IFD\Tags\OlympusMakerNoteEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.PanasonicMakerNoteEntryTag" Collapsed="true">
+    <Position X="63" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAIQRggAEAQgAITApEkAAAAAUkQIAAKAOQAAAgmAIAU=</HashCode>
+      <FileName>TagLib\IFD\Tags\PanasonicMakerNoteEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.PentaxMakerNoteEntryTag" Collapsed="true">
+    <Position X="64.75" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YClQkMDpCcSdwNDggI4IRjAAAEmLiAMFAloKAYhNAQQ=</HashCode>
+      <FileName>TagLib\IFD\Tags\PentaxMakerNoteEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.Tags.SonyMakerNoteEntryTag" Collapsed="true">
+    <Position X="70" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IABBLEhAAgAEAABQAHgACKEAUyAgAAAAiAIAoAIJAoE=</HashCode>
+      <FileName>TagLib\IFD\Tags\SonyMakerNoteEntryTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.IFD.IFDEntryType" Collapsed="true">
+    <Position X="71.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEgAEAAABCCAAAACAAABAACAQBAAAAAAAAgADA=</HashCode>
+      <FileName>TagLib\IFD\IFDEntryType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Image.ImageOrientation" Collapsed="true">
+    <Position X="59.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAIAAAAQBAAAAAAAAAAAAAAAQAAAAACEAEAAEA=</HashCode>
+      <FileName>TagLib\Image\ImageOrientation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Jpeg.Marker" Collapsed="true">
+    <Position X="68.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YQIAAABIhEEAgQAgFAAAEAAIBIH/EQQAAADsDwLCP/4=</HashCode>
+      <FileName>TagLib\Jpeg\Marker.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Matroska.EBMLID" Collapsed="true">
+    <Position X="59.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAIAAAACAQAAACAAAQAAAAIAAAAAAAAAAAAAASAA=</HashCode>
+      <FileName>TagLib\Matroska\EBMLIDs.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Matroska.TrackType" Collapsed="true">
+    <Position X="66.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAUAAAgAAAAQAEAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>TagLib\Matroska\File.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Matroska.MatroskaID" Collapsed="true">
+    <Position X="70" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgFImNQpIGMjSkFACJ3ZgmYGIwQwodQARN0QgDXuSAA=</HashCode>
+      <FileName>TagLib\Matroska\MatroskaIDs.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Matroska.TargetType" Collapsed="true">
+    <Position X="63" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MEAAAQQAAAAICIABGAAAAw4AEAAAAAAAAEAAQBQAAQA=</HashCode>
+      <FileName>TagLib\Matroska\TargetType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Matroska.VideoAspectRatioType" Collapsed="true">
+    <Position X="70" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAgAAAAAAAAAAAQA=</HashCode>
+      <FileName>TagLib\Matroska\VideoTrack.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Mpeg.Version" Collapsed="true">
+    <Position X="68.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>TagLib\Mpeg\AudioHeader.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Mpeg.ChannelMode" Collapsed="true">
+    <Position X="66.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAEAAQAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg\AudioHeader.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Mpeg.Marker" Collapsed="true">
+    <Position X="66.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAEAgAAFIAAIAAAAAEAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Mpeg\File.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.StringType" Collapsed="true">
+    <Position X="71.75" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAI=</HashCode>
+      <FileName>TagLib\ByteVector.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.ReadStyle" Collapsed="true">
+    <Position X="68.25" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>TagLib\File.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.MediaTypes" Collapsed="true">
+    <Position X="71.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAEAAAAAAAAAAAAAAAAACAEAAAg=</HashCode>
+      <FileName>TagLib\ICodec.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.PictureType" Collapsed="true">
+    <Position X="66.5" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAAAAAKAAAAAAAQAQQEQBAAAAICRAEAAAQAgAMAAgAY=</HashCode>
+      <FileName>TagLib\Picture.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.TagTypes" Collapsed="true">
+    <Position X="61.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAEAAAAAAADAABCACAAgQAAQAAAAAAgAAEoFiA=</HashCode>
+      <FileName>TagLib\Tag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Ogg.PageFlags" Collapsed="true">
+    <Position X="61.25" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABABAAAAAAAAAAAEAgAA=</HashCode>
+      <FileName>TagLib\Ogg\PageHeader.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TagLib.Xmp.XmpNodeType" Collapsed="true">
+    <Position X="71.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgABAAgAAAAAAAAAAQAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>TagLib\Xmp\XmpNodeType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
